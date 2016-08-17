@@ -14,7 +14,7 @@ class CameraViewController: UIViewController, UINavigationControllerDelegate, UI
     @IBOutlet weak var imageView: UIImageView!
     
     let imagePicker = UIImagePickerController()
-    
+
     var recieveImage: UIImage?
     var recievePhoto: UIImage?
 
@@ -66,5 +66,4 @@ class CameraViewController: UIViewController, UINavigationControllerDelegate, UI
         }
     }
     
-
 }

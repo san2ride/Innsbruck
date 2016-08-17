@@ -16,7 +16,6 @@ class InnsbruckViewController: UIViewController {
         super.viewDidLoad()
 
        
-        
     }
     
     @IBAction func firstButtonPushed(sender: UIButton) {
